@@ -6,4 +6,4 @@
 - [Wiki 꾸욱(바로가기)](https://github.com/cheona-thousand-man/Unity-myBasics-Wiki/wiki)
 
 - **학습기록**
-  - [2024.08.12] Command Pattern (1/2)
+  - [2024.08.12] Command Pattern 
