@@ -4,3 +4,6 @@
 그래서 별도의 코드 파일은 아무래도 업로드 될 일이 없을 예정스...
 
 - [Wiki 꾸욱](https://github.com/cheona-thousand-man/Unity-myBasics-Wiki/wiki)
+
+- 학습기록
+  - Command Pattern (1/2) _2024.08.12
