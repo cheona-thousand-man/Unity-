@@ -7,4 +7,4 @@
 
 - **학습기록**
   - [2024.08.12] Command Pattern 
-  - [2024.08.13] Object Pool, Observer Pattern
+  - [2024.08.13] Object Pool, Observer, Visitor Pattern 
