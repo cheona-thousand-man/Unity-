@@ -8,4 +8,4 @@
 - **학습기록**
   - [2024.08.12] Command Pattern 
   - [2024.08.13] Object Pool, Observer, Visitor Pattern 
-  - [2024.08.16] Strategy, Decorator Pattern
+  - [2024.08.16] Strategy, Decorator Pattern, Spatial Partition
