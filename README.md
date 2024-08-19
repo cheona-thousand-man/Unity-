@@ -9,4 +9,4 @@
   - [2024.08.12] Command Pattern 
   - [2024.08.13] Object Pool/Observer/Visitor Pattern 
   - [2024.08.16] Strategy/Decorator/Adapter Pattern, Spatial Partition
-  - [2024.08.19] Facade Pattern
+  - [2024.08.19] Facade, Service Locator Pattern
